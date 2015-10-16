@@ -1,5 +1,5 @@
-#include "duktape.h"
 #include <pebble.h>
+#include "duktape.h"
 
 static Window *window;
 static TextLayer *hello_layer;
