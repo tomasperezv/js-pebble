@@ -1,5 +1,10 @@
+#define DUK_OPT_HAVE_CUSTOM_H
+
 #include <pebble.h>
+
 #include "duktape.h"
+#include "duk_config.h"
+#include "duktape.c"
 
 static Window *window;
 static TextLayer *hello_layer;
