@@ -12,4 +12,4 @@ Warning: WIP (and might be a WIP forever).
 ## Authors
 
 * Miguel Jiménez `mjesun@hotmail.com`.
-* Tomás Pérez `tomasperezv@gmail.com`.
+* Tomás Pérez `tom@0x101.com`.
